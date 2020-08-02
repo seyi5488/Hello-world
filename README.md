@@ -1,2 +1,4 @@
 # Hello-world
-Just another repository
+
+Hi seyi!
+Hello, I will like you to add some features to the project.
